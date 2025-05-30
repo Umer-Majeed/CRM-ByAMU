@@ -72,3 +72,11 @@ For any queries, feel free to reach out via GitHub or ~ (Umarmajeed786k@gmail.co
 ---
 
 > **Note**: This project was developed for educational purposes under the supervision of *Ayesha Batool* as part of the *Programming Fundamentals* course.
+---
+
+This is another day i'm learning on my project still in the process i'm busy right now in the Video of Apna College Where i learn how to use github in the C++; 
+
+Time Stamp : 10 : 25 PM 
+Date Stamp : 5/30/2025 
+
+---
