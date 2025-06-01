@@ -8,7 +8,7 @@ This is a simple **Customer Relationship Management (CRM)** system developed as 
 ## 👨‍💻 Project Members
 - Mahnoor Noshad  
 - Alisha Majeed  
-- Umer Majeed
+- Umer 
 
 ---
 
