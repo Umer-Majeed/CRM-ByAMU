@@ -2,7 +2,7 @@
 #include<string>
 using namespace std;
 
-// First Step We Need To Create The Structure For Customers To Store and Gain The Data 
+// First Step We Need To Create The Structure For Customers To Store and get The Data 
 struct customer
 {
     string name;
@@ -51,7 +51,7 @@ int main () {
         switch (choice)
         {
             case 1: addCustomer(); 
-             break;
+            break;
             case 2: viewCustomer();
             break;
             case 3: searchCustomer();
@@ -74,3 +74,4 @@ int main () {
     } while(choice!=0);
     return 0; 
 }
+
