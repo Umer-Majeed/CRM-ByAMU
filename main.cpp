@@ -11,7 +11,7 @@ using namespace std;
 union ContactInfo {
     char phone[20];  // If user selects phone
     char email[50];  // If user selects email
-    // Only one of them will store value at a time
+    // Only one of them will store value at a time only one time 
 };
 
 // ================================
