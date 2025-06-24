@@ -1,4 +1,3 @@
-// Importing necessary libraries
 #include <iostream>   // For standard I/O like cin and cout
 #include <string>     // To work with the string data type
 #include <vector>     // To work with dynamic arrays (vectors)
